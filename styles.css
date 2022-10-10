@@ -1,0 +1,43 @@
+body {
+	background-color: #cc00f5;
+	padding: 30px;
+}
+
+.something {
+	padding: 30px;
+}
+.words {
+	background-color:#20cfee;
+	color:#1109ed;
+	border: 2px solid #1109ed;
+	padding: 10px;
+}
+/*a:link {
+	color:#f56e00;
+	text-decoration: dashed;
+	font-size: 25px;
+	text-decoration: wavy;
+}
+a:visited {
+	color:#00f500;
+}
+a:active {
+	color:#2910b6;
+	text-decoration: overline;
+}*/
+table, th, td {
+	border: 1px solid #000000;
+	border-radius: 10px;
+	border-style: dotted;
+}
+th {
+	padding: 5px;
+}
+td {
+	text-align: center;
+	padding: 5px;
+}
+table {
+	width: 100%;
+}
+tr:hover td {background: #20cfee;}
